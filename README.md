@@ -13,4 +13,6 @@ Aquestes son ses passes que he seguit:
 6. He creat un texte markdown amb [**_laverna_**](https://laverna.cc/) i l'he copiat dins el meu fitxer readme.md
 
 Salut!
+
+
 ![moixet](https://icon-icons.com/icons2/365/PNG/256/kitten-icon_36975.png)
